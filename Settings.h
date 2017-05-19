@@ -2,7 +2,7 @@
 //Date : 19 May 2017
 //Version : 1.0
 //Copyright : Open for everyone
-//Description : Logging data
-// Usage: logging();
+//Description : User input for temp.
+// Usage: Settings();
 
-void logging ();
+void Settings();

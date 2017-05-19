@@ -46,9 +46,9 @@ int main()
     
     GetTemperatureAndHumidity();        //Data Collection
 
-    Comparevalues( );                    //Data Analysis
+    Comparevalues( );                   //Data Analysis
 
-    rgb_outp(status);                         //RGB_LED_output
+    rgb_outp(status);                   //RGB_LED_output
 
     return 0;
 }
